@@ -1,3 +1,9 @@
+/*
+    Filename lab2a.cpp
+    Authors: Trey Owen and Lucas
+    Date: 05 September 2023
+    Purpose: Get a good grade
+*/
 #include <iostream>
 #include <cmath>
 using namespace std;
